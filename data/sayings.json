@@ -1,0 +1,106 @@
+[
+
+    {
+        "id": 1,
+        "sauceId": 1,
+        "saying": "Yes to forever"
+    },
+    {
+        "id": 2,
+        "sauceId": 1,
+        "saying": "Oh, I get it!"
+    },
+    {
+        "id": 3,
+        "sauceId": 2,
+        "saying": "I mean..."
+    },
+    {
+        "id": 4,
+        "sauceId": 2,
+        "saying": "Step aside"
+    },
+    {
+        "id": 5,
+        "sauceId": 2,
+        "saying": "We'll see about that!"
+    },
+    {
+        "id": 6,
+        "sauceId": 2,
+        "saying": "Of course I will!"
+    },
+    {
+        "id": 7,
+        "sauceId": 2,
+        "saying": "I can't let you go"
+    },
+    {
+        "id": 8,
+        "sauceId": 3,
+        "saying": "Too bad you're not single"
+    },
+    {
+        "id": 9,
+        "sauceId": 3,
+        "saying": "Take me home"
+    },
+    {
+        "id": 1,
+        "sauceId": 3,
+        "saying": "Not sitting this one out"
+    },
+    {
+        "id": 11,
+        "sauceId": 3,
+        "saying": "This one's on me"
+    },
+    {
+        "id": 12,
+        "sauceId": 3,
+        "saying": "Marry me!"
+    },
+    {
+        "id": 13,
+        "sauceId": 4,
+        "saying": "Sorry mom"
+    },
+    {
+        "id": 14,
+        "sauceId": 4,
+        "saying": "Tattoos or it didn’t happen"
+    },
+    {
+        "id": 15,
+        "sauceId": 4,
+        "saying": "Oh, the anticipation"
+    },
+    {
+        "id": 16,
+        "sauceId": 4,
+        "saying": "And... done."
+    },
+    {
+        "id": 17,
+        "sauceId": 4,
+        "saying": "No introduction needed"
+    },
+    {
+        "id": 18,
+        "sauceId": 4,
+        "saying": "Problem solved"
+    },
+
+
+    {
+        "id": 19,
+        "sauceId": "",
+        "saying": ""
+    },
+    {
+        "id": 20,
+        "sauceId": "",
+        "saying": ""
+    }
+
+]
